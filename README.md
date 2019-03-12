@@ -8,4 +8,4 @@ License: MIT.
 
 This is a customized camera to perform simple horizontal scrolling and scene limiting.
 
-Please read this [blog page](http://shinerightstudio.com/customized-2d-following-camera-in-godot/) for more information.
+Please read this [blog page](http://shinerightstudio.com/posts/customized-2d-following-camera-in-godot/) for more information.
